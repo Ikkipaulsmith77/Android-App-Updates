@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "0.2.0",
+  "versionCode": 3,
+  "versionName": "0.2.1",
   "apkUrl": "https://raw.githubusercontent.com/Ikkipaulsmith77/Android-App-Updates/main/Screen-Off-Motorola/app-release.apk",
-  "sha256": "67b487a8277fc9c35467bb8f74a88b85d409c1f83498d773745a6e93f991bdbb",
-  "releaseNotes": "Primera versión Release de Screen Off Motorola."
+  "sha256": "cc8dc8957f33d9d6dbd89926e5d5fa1cace89fea867d57619d078169b082358f",
+  "releaseNotes": "Actualización 0.2.1: mejoras y actualización del nombre de la aplicación."
 }
