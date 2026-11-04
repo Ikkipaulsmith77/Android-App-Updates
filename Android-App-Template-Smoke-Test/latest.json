@@ -1,7 +1,7 @@
 {
-  "versionCode": 1,
-  "versionName": "0.1.0",
+  "versionCode": 2,
+  "versionName": "0.1.1",
   "apkUrl": "https://raw.githubusercontent.com/Ikkipaulsmith77/Android-App-Updates/main/Android-App-Template-Smoke-Test/app-release.apk",
-  "sha256": "9d2119e6ea311e002d38fd4552443f91a60aeadb014aba51502b285ea852eed0",
-  "releaseNotes": "Initial OTA smoke test"
+  "sha256": "79c6d4ed5b9fd1ef6ce6e14e2621d8d041ce622ca2830a48bf24af2b7f502eda",
+  "releaseNotes": "OTA update test 0.1.1"
 }
